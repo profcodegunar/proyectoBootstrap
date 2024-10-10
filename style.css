@@ -1,0 +1,22 @@
+/************** Estilos de Bootstrap ***********/
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+
+  .carousel-inner img {
+    width: 100%;
+  }
+/************** Estilos de CSS ***********/  
+a{
+    color: white;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.mapa{
+    text-align: center;
+}
